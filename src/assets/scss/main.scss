@@ -1,0 +1,27 @@
+@import url('https://fonts.googleapis.com/css2?family=Azure&display=swap');
+
+// Colors
+$black: #000000;
+$gray: #292D32;
+$soft-gray: #F1F1F1;
+$white: #ffffff;
+$orange: #ffa500;
+$green: #708871;
+
+$primary: $black;
+$secondary: $gray;
+$tertiary: $soft-gray;
+$neutral: $white;
+
+* {
+  box-sizing: border-box;
+  font-family: 'Azure', sans-serif;
+}
+
+body {
+  margin: 0 !important;
+}
+
+h1, h2, h3, h4, h5, p {
+  margin: 0;
+}
