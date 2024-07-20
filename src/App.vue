@@ -168,6 +168,7 @@ onMounted(() => {
   transform: translate(-50%, -50%);
   transition: top 0.1s ease, left 0.1s ease;
   opacity: 0.4;
+  z-index: 99;
 }
 
 .cursor.animate {
